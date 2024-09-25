@@ -1,5 +1,7 @@
 ##### Deployed smartcontract address: CB3HPJF2G2DI7BXTHEN4ODFJTUOGAARR63QSUZHICQJRZLARAPXS3CLA
 
+![image](https://github.com/user-attachments/assets/499a6913-5790-46e4-bca6-ff7eab3ae595)
+
 # Decentralized Gaming Platform
 
 ## Project Title
